@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FILE>
+    <RAW>
+        <name>test raw</name>
+        <realExtension>ext</realExtension>
+        <link>http://www.google.com</link>
+        <size>1253253</size>
+        <creatorName>asd</creatorName>
+        <description></description>
+    </RAW>
+    <RAW>
+        <name>Descrizione particolarmente lunga</name>
+        <realExtension>zip</realExtension>
+        <link>http://www.prova.com</link>
+        <size>1234567890</size>
+        <creatorName>asd</creatorName>
+        <description>Nel mezzo del cammin di nostra vita mi ritrovai per una selva oscura, ché la diritta via era smarrita. Ahi quanto a dir qual era è cosa dura esta selva selvaggia e aspra e forte che nel pensier rinova la paura!  Tant’è amara che poco è più morte; ma per trattar del ben ch’i’ vi trovai, dirò de l’altre cose ch’i’ v’ ho scorte. Io non so ben ridir com’i’ v’intrai, tant’era pien di sonno a quel punto che la verace via abbandonai. Nel mezzo del cammin di nostra vita mi ritrovai per una selva oscura, ché la diritta via era smarrita. Ahi quanto a dir qual era è cosa dura esta selva selvaggia e aspra e forte che nel pensier rinova la paura!  Tant’è amara che poco è più morte; ma per trattar del ben ch’i’ vi trovai, dirò de l’altre cose ch’i’ v’ ho scorte. Io non so ben ridir com’i’ v’intrai, tant’era pien di sonno a quel punto che la verace via abbandonai. Nel mezzo del cammin di nostra vita mi ritrovai per una selva oscura, ché la diritta via era smarrita. Ahi quanto a dir qual era è cosa dura esta selva selvaggia e aspra e forte che nel pensier rinova la paura!  Tant’è amara che poco è più morte; ma per trattar del ben ch’i’ vi trovai, dirò de l’altre cose ch’i’ v’ ho scorte. Io non so ben ridir com’i’ v’intrai, tant’era pien di sonno a quel punto che la verace via abbandonai. Nel mezzo del cammin di nostra vita mi ritrovai per una selva oscura, ché la diritta via era smarrita. Ahi quanto a dir qual era è cosa dura esta selva selvaggia e aspra e forte che nel pensier rinova la paura!  Tant’è amara che poco è più morte; ma per trattar del ben ch’i’ vi trovai, dirò de l’altre cose ch’i’ v’ ho scorte. Io non so ben ridir com’i’ v’intrai, tant’era pien di sonno a quel punto che la verace via abbandonai.
+Ma poi ch’i’ fui al piè d’un colle giunto,
+là dove terminava quella valle
+che m’avea di paura il cor compunto,
+guardai in alto e vidi le sue spalle
+vestite già de’ raggi del pianeta
+che mena dritto altrui per ogne calle.
+Allor fu la paura un poco queta,
+che nel lago del cor m’era durata
+la notte ch’i’ passai con tanta pieta.
+E come quei che con lena affannata,
+uscito fuor del pelago a la riva,
+si volge a l’acqua perigliosa e guata,
+così l’animo mio, ch’ancor fuggiva,
+si volse a retro a rimirar lo passo
+che non lasciò già mai persona viva.
+Poi ch’èi posato un poco il corpo lasso,
+ripresi via per la piaggia diserta,
+sì che ’l piè fermo sempre era ’l più basso
+Ed ecco, quasi al cominciar de l'erta,
+una lonza leggera e presta molto,
+che di pel macolato era coverta;
+e non mi si partia dinanzi al volto,
+anzi ’mpediva tanto il mio cammino,
+ch’i’ fui per ritornar più volte vòlto.
+Temp’era dal principio del mattino,
+e ’l sol montava ’n sù con quelle stelle
+ch’eran con lui quando l’amor divino</description>
+    </RAW>
+    <AUDIO>
+        <name>audio</name>
+        <realExtension>zip</realExtension>
+        <link>http://www.test.com</link>
+        <size>1233545513</size>
+        <creatorName>asd</creatorName>
+        <description></description>
+        <bitrate>342</bitrate>
+        <durataSec>142.34</durataSec>
+        <audioCodec>MP3</audioCodec>
+        <campionamento>423</campionamento>
+    </AUDIO>
+    <AUDIOVIDEO>
+        <name>Link</name>
+        <realExtension>rar</realExtension>
+        <link>http://www.test.com</link>
+        <size>123453413</size>
+        <creatorName>Mirco</creatorName>
+        <description>filmato</description>
+        <bitrate>130000</bitrate>
+        <durataSec>1233.34</durataSec>
+        <audioCodec>AAC</audioCodec>
+        <campionamento>423</campionamento>
+        <videoCodec>H246</videoCodec>
+        <width>1024</width>
+        <height>720</height>
+        <containerFormat>Mathroska</containerFormat>
+    </AUDIOVIDEO>
+    <AUDIOVIDEO>
+        <name>audiovideo2</name>
+        <realExtension>rar</realExtension>
+        <link>http://www.prova123.org</link>
+        <size>123523313</size>
+        <creatorName>Mirco</creatorName>
+        <description>filmato</description>
+        <bitrate>13</bitrate>
+        <durataSec>1233.34</durataSec>
+        <audioCodec>AAC</audioCodec>
+        <campionamento>423</campionamento>
+        <videoCodec>H246</videoCodec>
+        <width>1024</width>
+        <height>720</height>
+        <containerFormat>mathroska</containerFormat>
+    </AUDIOVIDEO>
+    <EPUB>
+        <name>libro</name>
+        <realExtension>epub</realExtension>
+        <link>www.link_qui.org/download?id=123</link>
+        <size>120350</size>
+        <creatorName>Mirco</creatorName>
+        <description>libro in epub</description>
+        <author>autore</author>
+        <title>titolo qui</title>
+        <picsNumber>123</picsNumber>
+    </EPUB>
+    <RAW>
+        <name>titolo</name>
+        <realExtension>ext</realExtension>
+        <link>http://www.google.com</link>
+        <size>123453</size>
+        <creatorName>Mirco</creatorName>
+        <description>sadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskd</description>
+    </RAW>
+    <RAW>
+        <name>titolo2</name>
+        <realExtension>ext</realExtension>
+        <link>http://www.test.com</link>
+        <size>125235343</size>
+        <creatorName>Mirco</creatorName>
+        <description>sadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskdsadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskdsadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskdsadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskdsadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskdsadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskdsadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskd</description>
+    </RAW>
+    <AUDIOVIDEO>
+        <name>audiovideo2</name>
+        <realExtension>rar</realExtension>
+        <link>http://www.google.org</link>
+        <size>3735300721</size>
+        <creatorName>Mirco</creatorName>
+        <description>filmato</description>
+        <bitrate>13</bitrate>
+        <durataSec>1233.34</durataSec>
+        <audioCodec>AAC</audioCodec>
+        <campionamento>42312</campionamento>
+        <videoCodec>H246</videoCodec>
+        <width>1024</width>
+        <height>720</height>
+        <containerFormat>mathroska</containerFormat>
+    </AUDIOVIDEO>
+    <EPUB>
+        <name>libro</name>
+        <realExtension>epub</realExtension>
+        <link>www.google.org</link>
+        <size>1200000</size>
+        <creatorName>Mirco</creatorName>
+        <description>libro in epub</description>
+        <author>autore</author>
+        <title>titolo qui</title>
+        <picsNumber>123</picsNumber>
+    </EPUB>
+    <RAW>
+        <name>Autofix del link dove possibile</name>
+        <realExtension>ext</realExtension>
+        <link>google.com</link>
+        <size>123</size>
+        <creatorName>Mirco</creatorName>
+        <description>sadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskdsadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskdsadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskdsadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskdsadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskdsadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskdsadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskd</description>
+    </RAW>
+    <AUDIOVIDEO>
+        <name>audiovideo2</name>
+        <realExtension>rar</realExtension>
+        <link>http://www.google.org</link>
+        <size>1213</size>
+        <creatorName>Mirco</creatorName>
+        <description>filmato</description>
+        <bitrate>13</bitrate>
+        <durataSec>1233.34</durataSec>
+        <audioCodec>AAC</audioCodec>
+        <campionamento>423</campionamento>
+        <videoCodec>H246</videoCodec>
+        <width>1024</width>
+        <height>720</height>
+        <containerFormat>mathroska</containerFormat>
+    </AUDIOVIDEO>
+    <EPUB>
+        <name>libro</name>
+        <realExtension>epub</realExtension>
+        <link>www.prova123.org</link>
+        <size>1200000</size>
+        <creatorName>asd</creatorName>
+        <description>libro in epub</description>
+        <author>autore</author>
+        <title>titolo qui</title>
+        <picsNumber>123</picsNumber>
+    </EPUB>
+    <RAW>
+        <name>titolo</name>
+        <realExtension>ext</realExtension>
+        <link>http://www.link_file.com</link>
+        <size>123123123</size>
+        <creatorName>asd</creatorName>
+        <description>descrizione qui</description>
+    </RAW>
+    <AUDIO>
+        <name>audio</name>
+        <realExtension>zip</realExtension>
+        <link>http://www.test123.com</link>
+        <size>12313</size>
+        <creatorName>Mirco</creatorName>
+        <description>gtfrefgr</description>
+        <bitrate>342</bitrate>
+        <durataSec>142.34</durataSec>
+        <audioCodec>MP3</audioCodec>
+        <campionamento>423</campionamento>
+    </AUDIO>
+    <AUDIOVIDEO>
+        <name>audiovideo2</name>
+        <realExtension>rar</realExtension>
+        <link>http://www.testtesttest.org</link>
+        <size>1213</size>
+        <creatorName>Mirco</creatorName>
+        <description>filmato</description>
+        <bitrate>13</bitrate>
+        <durataSec>1233.34</durataSec>
+        <audioCodec>AAC</audioCodec>
+        <campionamento>423</campionamento>
+        <videoCodec>H246</videoCodec>
+        <width>1024</width>
+        <height>720</height>
+        <containerFormat>mathroska</containerFormat>
+    </AUDIOVIDEO>
+    <EPUB>
+        <name>libro</name>
+        <realExtension>epub</realExtension>
+        <link>www.abcd.org</link>
+        <size>12000</size>
+        <creatorName>Mirco</creatorName>
+        <description>libro in epub</description>
+        <author>autore</author>
+        <title>titolo qui</title>
+        <picsNumber>-1</picsNumber>
+    </EPUB>
+    <RAW>
+        <name>titolo</name>
+        <realExtension>ext</realExtension>
+        <link>http://www.google.com</link>
+        <size>123</size>
+        <creatorName>Mirco</creatorName>
+        <description>sadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskd</description>
+    </RAW>
+    <RAW>
+        <name>titolo2</name>
+        <realExtension>ext</realExtension>
+        <link>http://www.test.com</link>
+        <size>123</size>
+        <creatorName>Mirco</creatorName>
+        <description>sadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskdsadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskdsadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskdsadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskdsadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskdsadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskdsadf asdf asd fsadf asd fsad fas dfsa dfas df asd fasd fsadfs dfasdf sad fsad fasd fasdf asd fasd fasd fasd fasd fasd fasd fasf wea fsr gfsadf gasytdf juf gbdsy fius bgfuyrfusdgfytjygfsuykfdgbysfjhsd fudsbyfsydkg hfsdnufgshd usyfu gsdbfuskd</description>
+    </RAW>
+    <AUDIOVIDEO>
+        <name>testSize</name>
+        <realExtension>rar</realExtension>
+        <link>http://www.linkprova.org</link>
+        <size>10995116270000</size>
+        <creatorName>Mirco</creatorName>
+        <description>filmato</description>
+        <bitrate>13</bitrate>
+        <durataSec>1233.34</durataSec>
+        <audioCodec>AAC</audioCodec>
+        <campionamento>423</campionamento>
+        <videoCodec>H246</videoCodec>
+        <width>1024</width>
+        <height>720</height>
+        <containerFormat>mathroska</containerFormat>
+    </AUDIOVIDEO>
+    <RAW>
+        <name>asdas</name>
+        <realExtension>dasdasd</realExtension>
+        <link>http://www.test.com</link>
+        <size>313213123</size>
+        <creatorName>asd</creatorName>
+        <description>qwerty</description>
+    </RAW>
+    <AUDIO>
+        <name>3423423</name>
+        <realExtension>4t5f4</realExtension>
+        <link>http://www.test.com</link>
+        <size>342</size>
+        <creatorName>asd</creatorName>
+        <description></description>
+        <bitrate>0</bitrate>
+        <durataSec>0</durataSec>
+        <audioCodec></audioCodec>
+        <campionamento>0</campionamento>
+    </AUDIO>
+    <AUDIO>
+        <name>asd</name>
+        <realExtension>asd</realExtension>
+        <link>http://www.test.com</link>
+        <size>132</size>
+        <creatorName>asd</creatorName>
+        <description></description>
+        <bitrate>0</bitrate>
+        <durataSec>0</durataSec>
+        <audioCodec></audioCodec>
+        <campionamento>0</campionamento>
+    </AUDIO>
+    <PLAIN_TEXT>
+        <name>fgsd</name>
+        <realExtension>gdgdf</realExtension>
+        <link>http://www.test.com</link>
+        <size>123</size>
+        <creatorName>asd</creatorName>
+        <description>3123</description>
+        <author>12321</author>
+        <title>31231231312</title>
+    </PLAIN_TEXT>
+    <AUDIO>
+        <name>123</name>
+        <realExtension>123</realExtension>
+        <link>http://www.test.com</link>
+        <size>123</size>
+        <creatorName>Mirco</creatorName>
+        <description></description>
+        <bitrate>0</bitrate>
+        <durataSec>0</durataSec>
+        <audioCodec></audioCodec>
+        <campionamento>0</campionamento>
+    </AUDIO>
+    <AUDIO>
+        <name>234</name>
+        <realExtension>32423424</realExtension>
+        <link>http://www.test.com</link>
+        <size>43242</size>
+        <creatorName>asd</creatorName>
+        <description></description>
+        <bitrate>0</bitrate>
+        <durataSec>0</durataSec>
+        <audioCodec></audioCodec>
+        <campionamento>0</campionamento>
+    </AUDIO>
+</FILE>

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="login.png">./IMG/login.png</file>
+        <file alias="admin">./IMG/admin.svg</file>
+        <file alias="icona">./IMG/icona.svg</file>
+        <file alias="dialog">./IMG/dialog.svg</file>
+        <file alias="error">./IMG/error.svg</file>
+        <file alias="warning">./IMG/warning.svg</file>
+        <file alias="info">./IMG/info.svg</file>
+    </qresource>
+</RCC>
