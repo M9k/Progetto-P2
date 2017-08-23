@@ -34,6 +34,7 @@ public:
         for(auto ci = list.begin(); ci != list.end(); ++ci)
             if((*ci)->getName() == nome)
             {
+                delete *ci;
                 list.erase(ci);
                 return true;
             }
